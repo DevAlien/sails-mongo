@@ -1,6 +1,6 @@
 {
-  "name": "sails-mongo",
-  "version": "0.11.4",
+  "name": "sails-mongo-sensitive",
+  "version": "0.11.5",
   "description": "Mongo DB adapter for Sails.js",
   "main": "./lib/adapter.js",
   "scripts": {
@@ -13,6 +13,10 @@
     "sails"
   ],
   "contributors": [
+      {
+        "name": "Goncalo Margalho",
+        "email": "gsky89gmail.com@gmail.com"
+      },
     {
       "name": "Cody Stoltman",
       "email": "particlebanana@gmail.com"
@@ -38,7 +42,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git://github.com/balderdashy/sails-mongo.git"
+    "url": "git://github.com/DevAlien/sails-mongo.git"
   },
   "dependencies": {
     "async": "~1.4.2",
